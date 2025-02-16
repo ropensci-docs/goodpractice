@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6429e0f8b37bd7e2eaa532518ac48fe0a818f1e2",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2024-11-18 14:45:16",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #184 from ropensci-review-tools/allcontribs\n\nadd allcontributors"
+  },
+  "repo": "https://github.com/ropensci-review-tools/goodpractice",
+  "pkg": "goodpractice"
+}
