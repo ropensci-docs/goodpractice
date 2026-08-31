@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "8f61183c16e429ddfd34c0ead8cd36cc0c8e7209",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-08-31T08:38:11Z",
+    "files": 5,
+    "merge": true,
+    "message": "Merge pull request #324 from ropensci-review-tools/desc-roles\n\nDesc roles"
+  },
+  "repo": "https://github.com/ropensci-review-tools/goodpractice",
+  "pkg": "goodpractice",
+  "time": "2026-08-31T13:31:11Z"
+}
