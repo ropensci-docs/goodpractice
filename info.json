@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "443bb7af181712157f631b54bc03cb3da223c0b1",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-01T10:26:28Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #328 from ropensci-review-tools/dotpars\n\nexclude '...' from duplicate pars check to close #327"
+  },
+  "repo": "https://github.com/ropensci-review-tools/goodpractice",
+  "pkg": "goodpractice",
+  "time": "2026-10-01T12:18:34Z"
+}
