@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "60a2fe06ec0c63fc8624cc866b56152ecc8c05f8",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-08T08:54:04Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #332 from ropensci-review-tools/tidyverse-export\n\nExclude S3 methods from tidyverse export order to close #331"
+  },
+  "repo": "https://github.com/ropensci-review-tools/goodpractice",
+  "pkg": "goodpractice",
+  "time": "2026-10-08T09:16:52Z"
+}
