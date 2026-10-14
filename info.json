@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "428e49b4411f3df1391e0ac85d21d3f80926fc97",
+    "author": "mark padgham <mark.padgham@email.com>",
+    "time": "2026-10-14T08:42:55Z",
+    "files": 6,
+    "merge": true,
+    "message": "Merge pull request #335 from ropensci-review-tools/treesitter\n\nimprove ts parsing of fn references to close #334"
+  },
+  "repo": "https://github.com/ropensci-review-tools/goodpractice",
+  "pkg": "goodpractice",
+  "time": "2026-10-14T13:57:57Z"
+}
